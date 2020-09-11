@@ -2,7 +2,7 @@
 
 ---
 
-[![Linkedin: jeannie-torres](https://img.shields.io/badge/-jeannie-torres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeannie-torres/)](https://www.linkedin.com/in/jeannie-torres/)
+[![LinkedIn jeannie-torres](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555=https://www.linkedin.com/in/jeannie-torres/)](https://www.linkedin.com/in/jeannie-torres/)
 [![GitHub jeanniet89](https://img.shields.io/github/followers/jeanniet89?label=follow&style=social)](https://github.com/Jeanniet89/jeanniet89)
 
 ## 👨‍💻 About Me
