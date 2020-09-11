@@ -1,4 +1,4 @@
-### Hey there! I'm Jeannie Torres 👋
+### Hey there, Jeannie Torres here!! 👋
 
 ---
 
