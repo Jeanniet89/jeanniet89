@@ -7,7 +7,6 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Account Manager at [TSO Mobile]https://www.tsomobile.com/).
 - 💼 Teacher Assistant at [Wyncode Academy]https://wyncode.co/).
 - 🌱 I’m currently learning Full Stack Web Development.
 - 🔭 I’m currently working on perfecting a Bill Splitting App.
