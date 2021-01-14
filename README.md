@@ -9,7 +9,7 @@
 
 - 💼 Teacher Assistant at [Wyncode Academy]https://wyncode.co/).
 - 🌱 I’m a Full Stack Web Developer.
-- 🔭 I’m currently working on perfecting a Bill Splitting App.
+- 🔭 I’m currently working on perfecting a Bill Splitting App & My Portfolio.
 - ✅ Next on the list: Docker.
 - 📫 You can reach me at [jeanniet89@gmail.com].
 - ⚡ Fun fact: I love to `DANCE` like noone is watching.
