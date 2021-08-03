@@ -25,4 +25,5 @@
 - 🔧 MongoDB
 - 🏄‍♂️ Netlify
 
-[![Jeannie's github stats](https://github-readme-stats.vercel.app/api?username=Jeanniet89/&hide=stars&count_private=true&show_icons=true&&theme=highcontrast)](https://github.com/Jeanniet89/)
+[![Jeannie's github stats](https://github-readme-stats.vercel.app/api?username=Jeanniet89&hide=stars&count_private=true&show_icons=true&&theme=highcontrast)](https://github.com/Jeanniet89)
+
